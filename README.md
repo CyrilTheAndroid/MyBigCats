@@ -2,6 +2,8 @@
 
 Code issu de la vidéo Youtube "[RecyclerView en Kotlin - Tutoriel Android Studio 2021 - À la découverte d'Android Jetpack #1](https://youtu.be/Fw_mTLrKtDY)"
 
+---
+
 - [Installation](#Installation)
 - [Fonctionnalités](#Fonctionnalités)
 - [Technologies](#Technologies)
